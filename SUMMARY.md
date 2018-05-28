@@ -1,5 +1,5 @@
 # Table of contents
 
-* [book\_armbian](README.md)
+* [家用迷你服务器构建攻略](README.md)
 * [关于](guan-yu.md)
 
